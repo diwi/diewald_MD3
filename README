@@ -1,0 +1,31 @@
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+AUTHOR: Thomas Diewald
+
+Date:        05.12.2011
+last edited: 05.12.2011
+
+author:    www.thomasdiewald.com
+library:   http://www.thomasdiewald.com/processing/libraries/diewald_MD3/
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+
+################################################################################
+--------------------------------------------------------------------------------
+PROCESSING LIBRARY - diewald_MD3
+--------------------------------------------------------------------------------
+################################################################################
+
+a processing library for loading/editing MD3-Files, animations, modeltextures, etc… .
+MD3 is a format that is used in Quake3 for saving 3DModel-data (Weapon, Players, etc.), frame-animations and other 3D-dData.
+
+ 
+
+
+ZIP_CONTENT:
+    processing examples
+    reference
+    source-code
+    library: diewald_MD3.jar
